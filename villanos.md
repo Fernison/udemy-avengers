@@ -1,5 +1,4 @@
 # villanos
 
 * Dr. Doom
-* Redskull
-* Capitán America
+* Redskulls
