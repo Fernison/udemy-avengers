@@ -1,4 +1,4 @@
 # Misiones
 
 * Investigar al dr doom
-* capturar a redskull
+* capturar a redskullc
